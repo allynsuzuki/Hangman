@@ -1,0 +1,59 @@
+
+#output7 {
+    color: aquamarine;
+    font-size: 30px;
+}
+#output4 {
+    color: darkred;
+    font-family: Gruppo-Font;
+
+}
+
+
+#output5 {
+    color: darkred;
+}
+
+
+#output2 {
+    color: darkred;
+    font-size: 28px;
+}
+
+#output {
+    font-size: 40px;
+    font-family: Chalkboard;
+}
+
+/* style all p elements with the class “center” */
+p.center {
+    text-align: center;
+    color: red;
+}
+
+/* style all h1, h2 and p elements */
+h1, h2, p {
+    text-align: center;
+    text-weight: bold;
+}
+
+body {
+    background-color: #e6a770;
+    text-align: center;
+}
+h1 {
+    color: #767676;
+    font-family: Impact;
+    font-size: 50px;
+}
+
+p1 {
+    font-family: Palantino;
+}
+p {
+    line-height: 20px;
+    color: red;
+}
+#myDiv {
+    font-size: 36px;
+}
